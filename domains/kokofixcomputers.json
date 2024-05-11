@@ -7,6 +7,7 @@
     
         "record": {
             "MX": ["mail0.serv00.com"]
+            "CNAME": "kokofixcomputers.github.io"
         }
     }
     
